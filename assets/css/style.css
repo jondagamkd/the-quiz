@@ -7,3 +7,9 @@ main {
     display: flex;
     justify-content: center;
 }
+
+#mainDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
