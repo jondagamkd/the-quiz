@@ -3,7 +3,7 @@ A fun little quiz about javascript that will test your knowledge.  This quiz is 
 
 RACE TO THE FINISH!  The faster you get through the quiz, the higher your scores!  
 
-A link to the quiz can be found [here](https://jondagamkd.github.io/portfolio/).
+A link to the quiz can be found [here](https://jondagamkd.github.io/the-quiz/).
 
 This site was built using [The Visual Studio Code Editor](https://code.visualstudio.com/) and [GitHub Pages](https://pages.github.com/).
 
